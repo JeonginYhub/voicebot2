@@ -1,0 +1,7 @@
+streamlit==1.35.0
+streamlit-webrtc==0.44.0
+openai==1.30.1
+gtts==2.5.1
+av==9.2.0
+soundfile==0.12.1
+numpy==1.24.0
